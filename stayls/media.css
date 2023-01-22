@@ -8,5 +8,14 @@
     
 }
 @media(max-width:576px){
+  .header__nav{
+    flex-direction: column;
+    justify-content: center;
+    padding: 15px;
+  }  
+  
+  .header__link{
+    padding: 15px;
     
+  }
 }
