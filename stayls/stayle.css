@@ -1,0 +1,34 @@
+:root{
+    --mont:"Montserrat"
+    --rob:"Roboto"
+    --com:"Comfortaa"
+    --oq:" #FFFFFF  "
+    --orange: "#F18128"
+  
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    border: none;
+}
+
+
+body{
+    
+    
+}
+
+
+
+
+.container{
+    min-width: 1140px;
+    width: 100%;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
